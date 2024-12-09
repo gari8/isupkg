@@ -1,4 +1,4 @@
-module guthub.com/gari8/isupkg
+module github.com/gari8/isupkg
 
 go 1.23.4
 
